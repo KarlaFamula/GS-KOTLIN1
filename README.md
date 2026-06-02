@@ -56,20 +56,6 @@ HomeScreen (Tela Inicial)
 - ODS da ONU abordados
 - Informações da equipe
 
----
-
-## ✅ Requisitos Atendidos (Prof. Ewerton)
-
-| Requisito | Pontuação | Status |
-|---|---|---|
-| Tela inicial (nome, descrição, identidade visual) | 1,0 | ✅ |
-| Navegação entre telas (Navigation Compose, mín. 3) | 2,0 | ✅ (5 telas) |
-| Uso de Column, Row, Card, LazyColumn, Scaffold | 2,0 | ✅ |
-| Exibição de dados relacionados ao projeto | 2,0 | ✅ (10 satélites + 6 eventos) |
-| Interação com o usuário (filtros, botões, refresh) | 1,5 | ✅ |
-| Organização e boas práticas | 1,5 | ✅ (MVVM, separação de responsabilidades) |
-
----
 
 ## 🏗️ Arquitetura
 
