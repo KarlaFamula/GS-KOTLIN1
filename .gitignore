@@ -1,0 +1,8 @@
+# Arquivos de Build
+/build
+*/build
+/app/build
+/tmp
+/outputs
+.gradle
+/local-state

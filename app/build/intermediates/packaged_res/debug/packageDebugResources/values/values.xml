@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Space Monitor</string>
-    <style name="Theme.SpaceMonitor" parent="android:Theme.Material.Light.NoActionBar"/>
-</resources>
